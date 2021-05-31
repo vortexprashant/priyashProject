@@ -1,0 +1,242 @@
+[
+    {
+        "price": 10000,
+        "ratings": 0,
+        "stock": 3,
+        "numOfReviews": 0,
+        "_id": "608519be0a089b136cf82a93",
+        "name": "Studio Kusal",
+        "description": "Studio Kusal is the realization of the desire to live my passion in photography which goes beyond taking mere pictures. We at Studio Kusal believe in providing the best possible photography & Videography service to our clients alongside an experience which they can cherish for life.",
+        "category": "Photographers",
+        "seller": "Photo Studio Association Of Nepal",
+        "images": [
+            {
+                "_id": "608519be0a089b136cf82a94",
+                "public_id": "products/zvjyvlw4wlfbncyhtedg",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619335612/products/zvjyvlw4wlfbncyhtedg.jpg"
+            },
+            {
+                "_id": "608519be0a089b136cf82a95",
+                "public_id": "products/yjdpueutcgfhg9bzdn2m",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619335614/products/yjdpueutcgfhg9bzdn2m.jpg"
+            }
+        ],
+        "user": "607876eb053a6b27588df987",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:26:54.592Z",
+        "__v": 0
+    },
+    {
+        "price": 12000,
+        "ratings": 0,
+        "stock": 4,
+        "numOfReviews": 0,
+        "_id": "60851e15a0c9db338c929dfe",
+        "name": "Photo Choice",
+        "description": "Photo Choice Nepal provides high quality photography service in Kathmandu, Nepal. We are one of Nepal's top and best wedding event photography companies, providing high quality event photography.Photo Choice Nepal wedding photography team is commited to provide you every kind of photo and video service including pre and post wedding video and photography, creative wedding and photo story on the special occasion like wedding,Reception party and various event.",
+        "category": "Photographers",
+        "seller": "Photo Studio Association Of Nepal",
+        "images": [
+            {
+                "_id": "60851e15a0c9db338c929dff",
+                "public_id": "products/rsic8z7daqdxbdzrvpwx",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336723/products/rsic8z7daqdxbdzrvpwx.jpg"
+            },
+            {
+                "_id": "60851e15a0c9db338c929e00",
+                "public_id": "products/axiw53cvd0vyoymgjhri",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336725/products/axiw53cvd0vyoymgjhri.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:45:25.287Z",
+        "__v": 0
+    },
+    {
+        "price": 6000,
+        "ratings": 0,
+        "stock": 2,
+        "numOfReviews": 0,
+        "_id": "60851e8fa0c9db338c929e01",
+        "name": "Hari Khatiwada",
+        "description": "Hari Khatiwada is the realization of the desire to live my passion in photography which goes beyond taking mere pictures. We at Studio Hari Khatiwada believe in providing the best possible photography & Videography service to our clients alongside an experience which they can cherish for life.",
+        "category": "Photographers",
+        "seller": "Photo Studio Association Of Nepal",
+        "images": [
+            {
+                "_id": "60851e8fa0c9db338c929e02",
+                "public_id": "products/vmetambwmjbykbqvwpqi",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336845/products/vmetambwmjbykbqvwpqi.jpg"
+            },
+            {
+                "_id": "60851e8fa0c9db338c929e03",
+                "public_id": "products/knsi30lsku34sxmtuegj",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336846/products/knsi30lsku34sxmtuegj.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:47:27.034Z",
+        "__v": 0
+    },
+    {
+        "price": 8000,
+        "ratings": 0,
+        "stock": 2,
+        "numOfReviews": 0,
+        "_id": "60851f20a0c9db338c929e04",
+        "name": "Photo Pasal",
+        "description": "Photo Pasal Nepal provides high quality photography service in Kathmandu, Nepal. We are one of Nepal's top and best wedding event photography companies, providing high quality event photography. Photo Pasal Nepal wedding photography team is commited to provide you every kind of photo and video service including pre and post wedding video and photography, creative wedding and photo story on the special occasion like wedding,Reception party and various event.",
+        "category": "Boutiques",
+        "seller": "Photo Studio Association Of Nepal",
+        "images": [
+            {
+                "_id": "60851f20a0c9db338c929e05",
+                "public_id": "products/a3pjtdzatqhcl8yubqof",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336984/products/a3pjtdzatqhcl8yubqof.jpg"
+            },
+            {
+                "_id": "60851f20a0c9db338c929e06",
+                "public_id": "products/lufp8elxtqppx1ktvnkr",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619336990/products/lufp8elxtqppx1ktvnkr.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:49:52.043Z",
+        "__v": 0
+    },
+    {
+        "price": 100,
+        "ratings": 0,
+        "stock": 100,
+        "numOfReviews": 0,
+        "_id": "60852018a0c9db338c929e07",
+        "name": "Oodni boutique",
+        "description": "Oodni boutique\nUltimate destination for ethnic wears, Best known for Bridal wears, ethnic fashion, exotic designs, and intricate hand-works.",
+        "category": "Boutiques",
+        "seller": "Boutique Nepal",
+        "images": [
+            {
+                "_id": "60852018a0c9db338c929e08",
+                "public_id": "products/rrf7shkj2kvxs5jds90h",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619337240/products/rrf7shkj2kvxs5jds90h.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:54:00.834Z",
+        "__v": 0
+    },
+    {
+        "price": 1000,
+        "ratings": 0,
+        "stock": 1000,
+        "numOfReviews": 0,
+        "_id": "608520e8a0c9db338c929e09",
+        "name": "Jasmine boutique",
+        "description": "Jasmine boutique\nA best place to visit with lot’s of clothes and accessories according to the choice... good and friendly environment with customer satisfactions",
+        "category": "Boutiques",
+        "seller": "Boutique Nepal",
+        "images": [
+            {
+                "_id": "608520e8a0c9db338c929e0a",
+                "public_id": "products/nacurzi4injvhlkhmoax",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619337448/products/nacurzi4injvhlkhmoax.png"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T07:57:28.409Z",
+        "__v": 0
+    },
+    {
+        "price": 1,
+        "ratings": 0,
+        "stock": 1000,
+        "numOfReviews": 0,
+        "_id": "608521d6a0c9db338c929e0b",
+        "name": "Rd chaahat boutique",
+        "description": "Rd chaahat boutique\nR D Chaahat Boutique Which is located in Durbar Marg, Kathmandu.Chaahat Boutique is run by Nepal’s most sought after fashion designer Rajesh Dhakhwa.",
+        "category": "Boutiques",
+        "seller": "Boutique Nepal",
+        "images": [
+            {
+                "_id": "608521d6a0c9db338c929e0c",
+                "public_id": "products/sw4ncbkbf35wrxpz0bok",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619337686/products/sw4ncbkbf35wrxpz0bok.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T08:01:26.589Z",
+        "__v": 0
+    },
+    {
+        "price": 2000,
+        "ratings": 0,
+        "stock": 1,
+        "numOfReviews": 0,
+        "_id": "60852260a0c9db338c929e0d",
+        "name": "Prashant Dahal",
+        "description": "Bahun (Nepali: बाहुन) or Khas Brahmin(Nepali: खस ब्राह्मण) or Nepali Brahman (upadhya and jaishi) is a caste(Varna) among Khas people, whose origins are from Indo-Aryans of Nepal. According to 2011 Nepal census, Brahman/Bahun stands as second most populous group after Chhetri in Nepal.",
+        "category": "Bahuns",
+        "seller": "Bhuns Association of nepal",
+        "images": [
+            {
+                "_id": "60852260a0c9db338c929e0e",
+                "public_id": "products/rcqwexx5nn1qamnmmopo",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619337824/products/rcqwexx5nn1qamnmmopo.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T08:03:44.427Z",
+        "__v": 0
+    },
+    {
+        "price": 2000,
+        "ratings": 0,
+        "stock": 1,
+        "numOfReviews": 0,
+        "_id": "60852363a0c9db338c929e0f",
+        "name": "Ukesh Bhattarai",
+        "description": "Bahun (Nepali: बाहुन) or Khas Brahmin(Nepali: खस ब्राह्मण) or Nepali Brahman (upadhya and jaishi) is a caste(Varna) among Khas people, whose origins are from Indo-Aryans of Nepal. According to 2011 Nepal census, Brahman/Bahun stands as second most populous group after Chhetri in Nepal.",
+        "category": "Bahuns",
+        "seller": "Bhuns Association of nepal",
+        "images": [
+            {
+                "_id": "60852363a0c9db338c929e10",
+                "public_id": "products/s7wdpbamjyuzdloz21zp",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619338083/products/s7wdpbamjyuzdloz21zp.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T08:08:03.651Z",
+        "__v": 0
+    },
+    {
+        "price": 2000,
+        "ratings": 0,
+        "stock": 1,
+        "numOfReviews": 0,
+        "_id": "608523daa0c9db338c929e11",
+        "name": "Priyash Khatiwada",
+        "description": "Bahun (Nepali: बाहुन) or Khas Brahmin(Nepali: खस ब्राह्मण) or Nepali Brahman (upadhya and jaishi) is a caste(Varna) among Khas people, whose origins are from Indo-Aryans of Nepal. According to 2011 Nepal census, Brahman/Bahun stands as second most populous group after Chhetri in Nepal.",
+        "category": "Bahuns",
+        "seller": "Bhuns Association of nepal",
+        "images": [
+            {
+                "_id": "608523daa0c9db338c929e12",
+                "public_id": "products/mvoqvdmxnieqvn8rf5s7",
+                "url": "https://res.cloudinary.com/dxzmha1nj/image/upload/v1619338201/products/mvoqvdmxnieqvn8rf5s7.jpg"
+            }
+        ],
+        "user": "60809dff235aca1cb46f373e",
+        "reviews": [],
+        "createdAt": "2021-04-25T08:10:02.429Z",
+        "__v": 0
+    }
+]
